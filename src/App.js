@@ -8,8 +8,8 @@ import NewsCards from './components/NewsCards/NewsCards'
 
 import useStyles from './styles.js'
 
-const alanKey =
-  '4c09eaf59fa1dd15e14b29dbc403c4502e956eca572e1d8b807a3e2338fdd0dc/stage'
+// const alanKey =
+//   '4c09eaf59fa1dd15e14b29dbc403c4502e956eca572e1d8b807a3e2338fdd0dc/stage'
 
 const App = () => {
   const [newsArticles, setNewsArticles] = useState([])
