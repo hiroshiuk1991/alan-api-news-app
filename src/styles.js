@@ -31,7 +31,7 @@ export default makeStyles((theme) => ({
         padding: '3%',
         borderRadius: 10,
         color: 'white',
-        backgroundColor: 'rgba(21, 101, 192)',
+        backgroundColor: '#FF8C00',
         margin: '0 12px',
         textAlign: 'center',
         height: '25vmin',
