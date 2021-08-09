@@ -30,6 +30,7 @@ const infoCards = [
 const NewsCards = ({ articles, activeArticle }) => {
   const classes = useStyles()
 
+  
   if (!articles.length) {
     return (
       <Grow in>
